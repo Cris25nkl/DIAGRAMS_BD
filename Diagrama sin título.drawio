@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T00:09:18.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RtKFy7RoL45pv9iD5i1I" version="21.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-04T02:33:03.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FaQqR-S0kU0PgXInwxeD" version="21.7.2" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -881,6 +881,17 @@
         </mxCell>
         <mxCell id="WToHzJgDyztWzPzpIgB4-51" value="1:M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FPTMIUtObiEAOjKb41WY" name="Página-4">
+    <mxGraphModel dx="607" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V1COR_TdxeNCXKxaFMfc-1" value="Ejercicio 8:&lt;br/&gt;“Una empresa de venta anticipada de entradas para espectáculos quiere informatizar su funcionamiento. El&lt;br/&gt;funcionamiento de la empresa es el siguiente:&lt;br/&gt;Cuando un cliente llama por teléfono para comprar unas entradas, se comprueba si el cliente es nuevo, en cuyo&lt;br/&gt;caso se almacenará en la Base de Datos el nombre del cliente, su DNI y su teléfono. Además, se le asignará un&lt;br/&gt;código de cliente único.&lt;br/&gt;Existen diferentes locales de espectáculos que trabajan con esta empresa. La información de interés de dichos&lt;br/&gt;locales es el código de local, el nombre, la dirección, el teléfono y el aforo de dicho local.&lt;br/&gt;En los diferentes locales se dan distintos espectáculos. Hay que tener en cuenta que la empresa quiere tener&lt;br/&gt;almacenada la programación de espectáculos de toda la temporada por lo que un espectáculo podrá estar en&lt;br/&gt;varios locales a lo largo de la temporada y un local podrá tener también diferentes espectáculos durante la&lt;br/&gt;temporada. Es esencial saber las fechas de comienzo y fin de los espectáculos en cada local.&lt;br/&gt;De los espectáculos interesa saber el código de espectáculo, su nombre y el precio por entrada. Hay que tener&lt;br/&gt;en cuenta que el precio de un espectáculo puede variar según el local donde se produzca.&lt;br/&gt;Cuando el cliente realiza una compra de entradas se tendrá en cuenta lo siguiente: hay que almacenar la fecha&lt;br/&gt;para la que quiere las entradas, en que espectáculo y en cual local, así como el número de entradas que pide.&lt;br/&gt;Hay que almacenar todas las compras realizadas por un cliente. De las compras interesa saber el código de&lt;br/&gt;cliente, el número de entradas compradas, la fecha, el código del local y el código del espectáculo.”&lt;br/&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-840" width="620" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
