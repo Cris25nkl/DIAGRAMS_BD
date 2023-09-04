@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T00:08:20.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="33GLPefKBrnlmFARixB3" version="21.7.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-04T00:09:18.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RtKFy7RoL45pv9iD5i1I" version="21.7.2" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -697,7 +697,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_rxN2BQLnB1WGXxxOwW6-4" value="COOPROPIETARIO" style="whiteSpace=wrap;html=1;align=center;fontColor=#FF8000;fontStyle=1;strokeColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="_rxN2BQLnB1WGXxxOwW6-4" value="COPROPIETARIO" style="whiteSpace=wrap;html=1;align=center;fontColor=#FF8000;fontStyle=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="720" y="620" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WToHzJgDyztWzPzpIgB4-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_rxN2BQLnB1WGXxxOwW6-5" target="WToHzJgDyztWzPzpIgB4-45">
