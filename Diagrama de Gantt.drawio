@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
-    <mxGraphModel dx="978" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="139" value="3" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="40" y="690" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="140" value="Adaptar un chatbot para emitir recomendaciones dietéticas ajustado al estado&#xa;emocional del usuario." style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
+        <mxCell id="140" value="Desarrollar una estrategia de recomendación de dietas según el estado&#xa; emocional." style="align=left;strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="80" y="690" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="144" value="3.3" style="strokeColor=#DEEDFF" parent="1" vertex="1">
