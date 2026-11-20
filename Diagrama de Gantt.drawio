@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.4" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" pages="2">
   <diagram name="TG" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
-    <mxGraphModel dx="2222" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,25 +472,25 @@
         <mxCell id="a7byB4UjVWTAR42E8l6U-265" parent="1" style="strokeColor=#DEEDFF" value="5.1" vertex="1">
           <mxGeometry height="30" width="40" x="42" y="1070" as="geometry" />
         </mxCell>
-        <mxCell id="a7byB4UjVWTAR42E8l6U-266" parent="1" style="align=left;strokeColor=#DEEDFF" value="Revisión bibliográfica sobre la industria de videojuegos digitales." vertex="1">
+        <mxCell id="a7byB4UjVWTAR42E8l6U-266" parent="1" style="align=left;strokeColor=#DEEDFF" value="Diseño de la arquitectura del sistema." vertex="1">
           <mxGeometry height="30" width="420" x="82" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="a7byB4UjVWTAR42E8l6U-267" parent="1" style="strokeColor=#DEEDFF" value="5.2" vertex="1">
           <mxGeometry height="30" width="40" x="42" y="1100" as="geometry" />
         </mxCell>
-        <mxCell id="a7byB4UjVWTAR42E8l6U-268" parent="1" style="align=left;strokeColor=#DEEDFF" value=" Identificación de indicadores de éxito comercial en videojuegos &#xa;(ventas estimadas, reseñas, jugadores)" vertex="1">
+        <mxCell id="a7byB4UjVWTAR42E8l6U-268" parent="1" style="align=left;strokeColor=#DEEDFF" value="Desarrollo del backend para predicciones." vertex="1">
           <mxGeometry height="30" width="420" x="82" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="a7byB4UjVWTAR42E8l6U-269" parent="1" style="strokeColor=#DEEDFF" value="5.3" vertex="1">
           <mxGeometry height="30" width="40" x="42" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="a7byB4UjVWTAR42E8l6U-270" parent="1" style="align=left;strokeColor=#DEEDFF" value="Definición del concepto de “éxito comercial” a utilizar en el proyecto." vertex="1">
+        <mxCell id="a7byB4UjVWTAR42E8l6U-270" parent="1" style="align=left;strokeColor=#DEEDFF" value="Implementación de la interfaz de usuario." vertex="1">
           <mxGeometry height="30" width="420" x="82" y="1130" as="geometry" />
         </mxCell>
         <mxCell id="a7byB4UjVWTAR42E8l6U-271" parent="1" style="strokeColor=#DEEDFF" value="5.4" vertex="1">
           <mxGeometry height="30" width="40" x="44" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="a7byB4UjVWTAR42E8l6U-272" parent="1" style="align=left;strokeColor=#DEEDFF" value="Identificar APIs públicas de Steam y fuentes externas." vertex="1">
+        <mxCell id="a7byB4UjVWTAR42E8l6U-272" parent="1" style="align=left;strokeColor=#DEEDFF" value="Integración del modelo ML con la aplicación." vertex="1">
           <mxGeometry height="30" width="420" x="82" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="a7byB4UjVWTAR42E8l6U-273" parent="1" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=50" value="" vertex="1">
@@ -511,7 +511,7 @@
         <mxCell id="a7byB4UjVWTAR42E8l6U-278" parent="1" style="strokeColor=#DEEDFF" value="5.5" vertex="1">
           <mxGeometry height="30" width="40" x="42" y="1190" as="geometry" />
         </mxCell>
-        <mxCell id="a7byB4UjVWTAR42E8l6U-279" parent="1" style="align=left;strokeColor=#DEEDFF" value="Descarga y exploración inicial de datasets históricos." vertex="1">
+        <mxCell id="a7byB4UjVWTAR42E8l6U-279" parent="1" style="align=left;strokeColor=#DEEDFF" value="Pruebas funcionales del sistema." vertex="1">
           <mxGeometry height="30" width="420" x="80" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="a7byB4UjVWTAR42E8l6U-280" parent="1" style="shape=mxgraph.flowchart.process;fillColor=#AE4132;strokeColor=#000000;strokeWidth=2;opacity=50" value="" vertex="1">
